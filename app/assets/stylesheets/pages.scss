@@ -1,0 +1,65 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+  font-size: 70px;
+  color: rgba(0, 0, 0, 0.7);
+  margin: 48px 24px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+a {
+  margin: 24px;
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  color: rgba(120, 175, 225, 1);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(120, 175, 225, 0.6);
+}
+
+.message {
+  background-color: rgba(0, 0, 0, 0.15);
+  padding: 16px;
+  margin: 24px;
+  border-left: 8px solid rgba(120, 175, 225, 1)
+}
+
+form {
+  margin: 24px;
+}
+
+input {
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#button {
+  font-size: 48px;
+  width: 130px;
+  height: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
